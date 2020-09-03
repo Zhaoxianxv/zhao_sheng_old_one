@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\zxx\\zhao_sheng1\\zhao_sheng\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\zxx\\zhao_sheng1\\zhao_sheng\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "9,14,11,13,10,12",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "196,420,283,377,241,326",
+                        "endColumns": "43,50,41,41,40,49",
+                        "endOffsets": "235,466,320,414,277,371"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,99,150,192,234,275",
+                        "endColumns": "43,50,41,41,40,49",
+                        "endOffsets": "94,145,187,229,270,320"
+                    }
+                }
+            ]
+        }
+    ]
+}

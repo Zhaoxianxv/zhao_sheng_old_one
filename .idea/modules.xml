@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mchart/mchart.iml" filepath="$PROJECT_DIR$/mchart/mchart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/mylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oldninedroid_library/oldninedroid_library.iml" filepath="$PROJECT_DIR$/oldninedroid_library/oldninedroid_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/record/record.iml" filepath="$PROJECT_DIR$/record/record.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidelistview_library/slidelistview_library.iml" filepath="$PROJECT_DIR$/slidelistview_library/slidelistview_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhao_sheng/zhao_sheng.iml" filepath="$PROJECT_DIR$/zhao_sheng/zhao_sheng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhao_sheng1.iml" filepath="$PROJECT_DIR$/zhao_sheng1.iml" />
+    </modules>
+  </component>
+</project>

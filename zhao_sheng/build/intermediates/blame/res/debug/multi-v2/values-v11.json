@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\zxx\\zhao_sheng1\\zhao_sheng\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\zxx\\zhao_sheng1\\record\\build\\intermediates\\packaged_res\\debug\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "193"
+                    }
+                }
+            ]
+        }
+    ]
+}

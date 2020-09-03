@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\de.greenrobot\greendao-generator\2.1.0\3eeb641cc938dffeb7e0ed8c4ed35ddea81c2d1f\greendao-generator-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3eeb641cc938dffeb7e0ed8c4ed35ddea81c2d1f">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\greendao-generator-2.1.0_6d1177f83bc224228950e53a743c43ca054a9170\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\exploded-aar\cn.jiguang.sdk\jcore\1.1.9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="039cf65eff59b194310065e250b8da91ff20d27c">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\cn.jiguang.sdk-jcore-1.1.9_48ed3f860760e087a208ad16a8779d0580810bb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_5d6556278364deb4baea59b8b6f899404f9bca47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.1.2\109c63008b2d569e38696a3178ee2493b0f6c776\kotlin-stdlib-1.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="109c63008b2d569e38696a3178ee2493b0f6c776">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-stdlib-1.1.2_7516c5d6e955a2658edc35c960e4572df4fe7916\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\libs\libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c1f63f70671d69ee38379728e1192db82e289246">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\2\libammsdk_2e56f24ea2669787e0ab44e745983fd0d6c5351e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2183315547700d43599e06e167a0bf50a1b40c40">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1e1d7a5e0dd2515e0245b00f18a470d860e270da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\exploded-aar\com.lovedise\permissiongen\0.0.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="634ccf52c8b58a9eafd4a574b38d165e8648a574">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\com.lovedise-permissiongen-0.0.6_bc4559c34131af972065e2a14d99e8a8e3e182fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_c5b4dcef69903c818e13b2b1803075112abfc368\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_bdf9341ee869bbfe567aa5041db2136804a21359\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_06977c7c8d89153dc2d1560fd7900daa3e1df5a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_236625e5aadf1dd99ee1e1d0a9e5bbdf9b95236d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_b7673c60886af52b82578a07159dd052d2dc95e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\libs\libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1f63f70671d69ee38379728e1192db82e289246">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\2\libammsdk_2e56f24ea2669787e0ab44e745983fd0d6c5351e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-scalars\2.1.0\7c0d7c8f6e52115bb82fa018d81a8d0cae35dde5\converter-scalars-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7c0d7c8f6e52115bb82fa018d81a8d0cae35dde5">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\converter-scalars-2.1.0_abcf7b87e018b6604e9ef1c76fa90c0a5792c91e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5305936738497fe4a5d89fc4f13015931c0fd402">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.0.0-alpha1_8ac6df38da46002c6356d3d50088b06a91266590\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_ba5e9bf20f40e3ce7674ff7fe9437ec2b962ac7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\studio\sdk\build-tools\25.0.2\renderscript\lib\renderscript-v8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05668b8cd6c7b07f152b6a5b4c6cff620817ba0f">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\renderscript-v8_87fce866cc19bba5b88b077c0bcee0b5a74f6ebb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_abad215013eafa6cdead29fa0c14b128db5535f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-simplexml\2.1.0\a71c37fa341165df2c61ba93f549c4ceeb98d6c8\converter-simplexml-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a71c37fa341165df2c61ba93f549c4ceeb98d6c8">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\converter-simplexml-2.1.0_09c08faf37b7b341b82bbfa0a7e32f2559593d47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14e06a09a42688a25186e7abda5dd4836066502a">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\cn.jiguang.sdk-jpush-3.1.1_bfcfebf2b9c02fe89e11ac5e1655980a9be31216\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93e891f1939c5b744097cf6f836fc02f2da1e990">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cc57617d10e49df9a3ffe787ddfacfac1d7a3ea7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\libs\pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\2\pinyin4j-2.5.0_df9c437cb9545fbf637e034337b5424c1ae7b71f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\exploded-aar\com.google.dagger\dagger-android-support\2.10\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04696f638863e88fe1a07d34af0d33efe130bd9a">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.dagger-dagger-android-support-2.10_3682387d64f46f458cc0cd0c5d03694a985094d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_1058b5d2332a1b082b5f063434c245a939f66422\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_4d147f726897befd5d4a9ca6716236016502b5d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_f4634b048c1a8e80feaaaee4be4428f11f4a9482\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_79c626549371d375987c6f7fac8bcd2bbc0a15e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\de.greenrobot\greendao-generator\2.1.0\3eeb641cc938dffeb7e0ed8c4ed35ddea81c2d1f\greendao-generator-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3eeb641cc938dffeb7e0ed8c4ed35ddea81c2d1f">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\greendao-generator-2.1.0_6d1177f83bc224228950e53a743c43ca054a9170\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex-rxandroid-1.2.1_c0bfad27b5a12713833f3cb152460810eabf1944\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\exploded-aar\cn.jiguang.sdk\jpush\3.1.1\jars\libs\jpush-android-3.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="522a545a8efd94034ec07044563fb9da49a3aa2a">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\jpush-android-3.1.1_929cef3ad2c91e7cd9d7c8c379684e80c13a6efb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a4854945d6e44011bca886f1b329ce6b544c27dd">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cc57617d10e49df9a3ffe787ddfacfac1d7a3ea7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\libs\pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\2\pinyin4j-2.5.0_df9c437cb9545fbf637e034337b5424c1ae7b71f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\libs\weibosdkcore.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="119e2034c8db764d5742ec1cdbcc4aa6bdf85e7a">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\2\weibosdkcore_751ba03591d7888a80d7b952bb7df9f6af756c8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_c849279a7090e4e74a3da93f5e79caef34683c93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\exploded-aar\com.google.dagger\dagger-android\2.10\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="943fe3b33a12f96326ece28b4355bec7745120c0">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.dagger-dagger-android-2.10_256c81e8604539854cbdbb770488cae5d396a39a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.3.1_016a12e46b62cb2fc545e19f5ebddef884a635f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.6_0fee8a1728e7a0627aa3b0d2f1f994e0a89e9ed8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\de.greenrobot\greendao\2.1.0\9414c1d4578673dac83a23119009624fd695726d\greendao-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9414c1d4578673dac83a23119009624fd695726d">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\greendao-2.1.0_7d150d4cc06a3e6ff7be9dd130a6f80566a3ea73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_d85630f8af10fbbbc44b52f8735b56e5d608bd99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-urlconnection-3.4.1_15b8343bf9d520e80746ea083ea73c3dfaab3b7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\libs\weibosdkcore.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="119e2034c8db764d5742ec1cdbcc4aa6bdf85e7a">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\2\weibosdkcore_751ba03591d7888a80d7b952bb7df9f6af756c8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.4.1\381fc1096ba65040d8e80ea43b2e1d9bad02345e\logging-interceptor-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.4.1_e587c27d627a7a02abef71edbd357215491a48e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.10\72b1eae80561b66f0a24b300ab0dfafde959eb58\dagger-2.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="72b1eae80561b66f0a24b300ab0dfafde959eb58">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\dagger-2.10_132d8db6e02350a75ea0d6f0114ef171140b4c2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_ba874299391598715edb63929d2d2580796d62bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_d85630f8af10fbbbc44b52f8735b56e5d608bd99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\libs\ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="224c93f1824fa17b96db7250c2e5e2703d45e052">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\2\ksoap2-android-assembly-3.0.0-jar-with-dependencies_6519287ea0a940feecb21ded2601434ccf02e41d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_4d147f726897befd5d4a9ca6716236016502b5d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-13.0_c5ed2b3780a065e7eee032b7e18fecf8f2ac6e1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-13.0_c5ed2b3780a065e7eee032b7e18fecf8f2ac6e1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.3.1_e16c6921b01676c7d3e63a6287c993ce99c79eaf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_367ae0d69fb8a91d44b9c81978b0618b394b58a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\exploded-aar\cn.jiguang.sdk\jcore\1.1.9\jars\libs\jcore-android-1.1.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fb25a33330920a0b0166fbd067a1879396cddaef">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\jcore-android-1.1.9_72b714dfc4cc785d6115f17a0fce5a36f9becad8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_e442a6d46e44604ace3a065276e4b389c346c411\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_c5b4dcef69903c818e13b2b1803075112abfc368\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_bdf9341ee869bbfe567aa5041db2136804a21359\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\org.simpleframework\simple-xml\2.7.1\dd91fb744c2ff921407475cb29a1e3fee397d411\simple-xml-2.7.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd91fb744c2ff921407475cb29a1e3fee397d411">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\simple-xml-2.7.1_5d8a5536a74cbeb17f267cc9994d1831e14f3e4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_381d69cbcf096b0f80aeba7085d199c9c35983c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\exploded-aar\jp.wasabeef\glide-transformations\2.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="df451c6f391e3e32022fc964ed87bd57a5869128">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\jp.wasabeef-glide-transformations-2.0.1_2f9303fc16235182d3b5f1566d15aac8ea107c5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.1.2\109c63008b2d569e38696a3178ee2493b0f6c776\kotlin-stdlib-1.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="109c63008b2d569e38696a3178ee2493b0f6c776">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-stdlib-1.1.2_7516c5d6e955a2658edc35c960e4572df4fe7916\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\de.greenrobot\greendao\2.1.0\9414c1d4578673dac83a23119009624fd695726d\greendao-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9414c1d4578673dac83a23119009624fd695726d">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\greendao-2.1.0_7d150d4cc06a3e6ff7be9dd130a6f80566a3ea73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.1\f7be08ec23c21485b9b5a1cf1654c2ec8c58168d\jsr305-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7be08ec23c21485b9b5a1cf1654c2ec8c58168d">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-3.0.1_c6ae6c7959fb027a0b4657bdaae2bcd0dfcef622\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\exploded-aar\com.lovedise\permissiongen\0.0.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="634ccf52c8b58a9eafd4a574b38d165e8648a574">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\com.lovedise-permissiongen-0.0.6_bc4559c34131af972065e2a14d99e8a8e3e182fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.1_2ff3c35015500542e652f806faa7a792c41d4b9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\exploded-aar\jp.wasabeef\glide-transformations\2.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df451c6f391e3e32022fc964ed87bd57a5869128">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\jp.wasabeef-glide-transformations-2.0.1_2f9303fc16235182d3b5f1566d15aac8ea107c5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\org.freemarker\freemarker\2.3.23\cd143cd8c02a9f838e3cb75a6dfe133750437f6d\freemarker-2.3.23.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cd143cd8c02a9f838e3cb75a6dfe133750437f6d">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\freemarker-2.3.23_c3cda33225743ccefb304bc027ceaf5ebbf7d0c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\studio\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_be7e4d858621d037d4083c765edf4bba02f08d01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b53dd4cb6ff0f7341bf3baa2be3cbd2893563206">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1e1d7a5e0dd2515e0245b00f18a470d860e270da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\libs\ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="224c93f1824fa17b96db7250c2e5e2703d45e052">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\2\ksoap2-android-assembly-3.0.0-jar-with-dependencies_6519287ea0a940feecb21ded2601434ccf02e41d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yfyandr\.gradle\caches\modules-2\files-2.1\org.freemarker\freemarker\2.3.23\cd143cd8c02a9f838e3cb75a6dfe133750437f6d\freemarker-2.3.23.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd143cd8c02a9f838e3cb75a6dfe133750437f6d">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\freemarker-2.3.23_c3cda33225743ccefb304bc027ceaf5ebbf7d0c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5305936738497fe4a5d89fc4f13015931c0fd402">
+        <dex dex="D:\work201711\zhao_sheng1\zhao_sheng\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.0.0-alpha1_8ac6df38da46002c6356d3d50088b06a91266590\classes.dex" />
+    </item>
+
+</items>

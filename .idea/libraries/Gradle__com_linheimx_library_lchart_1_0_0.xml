@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.linheimx.library:lchart-1.0.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lchart-1.0.0.aar/0e75d2074dcd923389fbb8b037e66d94/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lchart-1.0.0.aar/0e75d2074dcd923389fbb8b037e66d94/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.linheimx.library/lchart/1.0.0/92c64e599ff22bc2239ac6f5bc0d037eab5b6802/lchart-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

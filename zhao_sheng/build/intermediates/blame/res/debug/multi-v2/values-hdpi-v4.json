@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\zxx\\zhao_sheng1\\zhao_sheng\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\yfy\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f0d5e9f02aa8ffc5bc061d583f196616\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "370",
+                        "endLines": "13",
+                        "endColumns": "13",
+                        "endOffsets": "642"
+                    }
+                },
+                {
+                    "source": "C:\\zxx\\zhao_sheng1\\zhao_sheng\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "8,19,17,14,16,10,15",
+                        "startColumns": "0,4,4,4,4,0,4",
+                        "startOffsets": "191,489,431,294,388,234,337",
+                        "endColumns": "39,44,50,41,41,36,49",
+                        "endOffsets": "230,529,477,331,425,270,382"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,99,144,195,237,279,320",
+                        "endColumns": "43,44,50,41,41,40,49",
+                        "endOffsets": "94,139,190,232,274,315,365"
+                    }
+                }
+            ]
+        }
+    ]
+}

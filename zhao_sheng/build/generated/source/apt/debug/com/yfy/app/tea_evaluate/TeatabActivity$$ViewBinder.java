@@ -1,0 +1,51 @@
+// Generated code from Butter Knife. Do not modify!
+package com.yfy.app.tea_evaluate;
+
+import android.view.View;
+import butterknife.ButterKnife.Finder;
+
+public class TeatabActivity$$ViewBinder<T extends com.yfy.app.tea_evaluate.TeatabActivity> extends com.yfy.base.activity.BaseActivity$$ViewBinder<T> {
+  @Override public void bind(final Finder finder, final T target, Object source) {
+    super.bind(finder, target, source);
+
+    View view;
+    view = finder.findRequiredView(source, 2131296916, "field 'my_timetable' and method 'setSchool'");
+    target.my_timetable = finder.castView(view, 2131296916, "field 'my_timetable'");
+    view.setOnClickListener(
+      new butterknife.internal.DebouncingOnClickListener() {
+        @Override public void doClick(
+          android.view.View p0
+        ) {
+          target.setSchool(finder.<com.yfy.view.button.BottomItem>castParam(p0, "doClick", 0, "setSchool", 0));
+        }
+      });
+    view = finder.findRequiredView(source, 2131296915, "field 'my_exchange' and method 'setClass'");
+    target.my_exchange = finder.castView(view, 2131296915, "field 'my_exchange'");
+    view.setOnClickListener(
+      new butterknife.internal.DebouncingOnClickListener() {
+        @Override public void doClick(
+          android.view.View p0
+        ) {
+          target.setClass(finder.<com.yfy.view.button.BottomItem>castParam(p0, "doClick", 0, "setClass", 0));
+        }
+      });
+    view = finder.findRequiredView(source, 2131296917, "field 'exchange_detail' and method 'setWork'");
+    target.exchange_detail = finder.castView(view, 2131296917, "field 'exchange_detail'");
+    view.setOnClickListener(
+      new butterknife.internal.DebouncingOnClickListener() {
+        @Override public void doClick(
+          android.view.View p0
+        ) {
+          target.setWork(finder.<com.yfy.view.button.BottomItem>castParam(p0, "doClick", 0, "setWork", 0));
+        }
+      });
+  }
+
+  @Override public void unbind(T target) {
+    super.unbind(target);
+
+    target.my_timetable = null;
+    target.my_exchange = null;
+    target.exchange_detail = null;
+  }
+}

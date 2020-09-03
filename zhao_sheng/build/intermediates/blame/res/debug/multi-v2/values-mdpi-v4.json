@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\zxx\\zhao_sheng1\\zhao_sheng\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mdpi-v4\\values-mdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\zxx\\zhao_sheng1\\zhao_sheng\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "8,10",
+                        "startColumns": "0,0",
+                        "startOffsets": "191,234",
+                        "endColumns": "39,36",
+                        "endOffsets": "230,270"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,99",
+                        "endColumns": "43,40",
+                        "endOffsets": "94,135"
+                    }
+                }
+            ]
+        }
+    ]
+}
